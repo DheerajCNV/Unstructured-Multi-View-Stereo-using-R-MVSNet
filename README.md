@@ -11,19 +11,18 @@ This repository contains the implementation and experimental results for a proje
 
 ## Project Structure
 
-├── configs/ # Configuration files for training/inference
-├── datasets/ # Scripts to preprocess the DTU dataset
-├── models/ # MVSNet & GRU-enhanced R-MVSNet models
-├── results/ # Output visualizations and metric logs
-├── utils/ # Utility functions (metrics, warping, etc.)
-├── train.py # Training script
-├── test.py # Inference and evaluation script
-├── requirements.txt # Dependencies
-└── README.md # This file
+├── configs/ # Configuration files for training/inference\
+├── datasets/ # Scripts to preprocess the DTU dataset\
+├── models/ # MVSNet & GRU-enhanced R-MVSNet models\
+├── results/ # Output visualizations and metric logs\
+├── utils/ # Utility functions (metrics, warping, etc.)\
+├── train.py # Training script\
+├── test.py # Inference and evaluation script\
+├── requirements.txt # Dependencies\
+├── Project Presentation # Final Presentation of the project in class\
+├── MVSNet Depth Inference for Unstructured Multiview Stereo, Team 10 # Project final report submitted at the end of the semester\
+└── README.md
 
-pgsql
-Copy
-Edit
 
 ## Features
 
